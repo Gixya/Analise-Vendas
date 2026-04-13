@@ -1,0 +1,1 @@
+print("Análise de vendas")
