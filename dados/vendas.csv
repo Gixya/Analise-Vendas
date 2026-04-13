@@ -1,1 +1,9 @@
-commit
+Data,Produto,Categoria,Valor,Quantidade
+2025-01-10,Mouse,Eletrônicos,50,2
+2025-01-12,Teclado,Eletrônicos,120,1
+2025-02-05,Caderno,Papelaria,30,3
+2025-02-10,Caneta,Papelaria,5,10
+2025-03-01,Fone de ouvido,Eletrônicos,80,2
+2025-03-15,Mochila,Acessórios,150,1
+2025-04-01,Garrafa,Acessórios,40,4
+2025-04-10,Livro,Educacional,60,2
