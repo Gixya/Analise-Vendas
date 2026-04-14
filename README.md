@@ -1,4 +1,4 @@
-# 📊 Análise de Dados de Vendas
+# 📊 Análise de Dados de Vendas com Python
 
 ## 📌 Sobre o projeto
 Este projeto tem como objetivo analisar dados de vendas e gerar insights estratégicos a partir das informações.
