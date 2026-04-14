@@ -16,7 +16,7 @@ A análise foi realizada utilizando Python, com foco em manipulação de dados e
 - Análise de vendas por mês
 
 ## 📈 Resultados
-![Gráfico](grafico.png)
+![Gráfico](grafico.jpg)
 
 ## 🧠 Insights
 - A categoria **Eletrônicos** apresentou o maior faturamento, indicando alta demanda por produtos tecnológicos.
