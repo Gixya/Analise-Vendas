@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('vendas.csv')
+df = pd.read_csv('dados/vendas.csv')
 
 # Criar faturamento
 df['Faturamento'] = df['Valor'] * df['Quantidade']
